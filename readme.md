@@ -1,4 +1,4 @@
-# RLMT Module Overview
+# Pro-Align Module Overview
 
 This folder contains the anonymized reinforcement-learning alignment workflow used after supervised initialization.
 The released scripts preserve the public interfaces and method-level flow:
